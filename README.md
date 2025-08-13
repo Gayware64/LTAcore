@@ -11,7 +11,7 @@ Highly adaptable – suitable for a wide range of software and hardware platform
 
 Performance-oriented – optimized for efficiency without compromising flexibility
 
-LTAcore 0.7 is also the base of all the Nyrion operating systems!
+LTAcore 0.7 is also the base of most the Nyrion software!
 
 LTAcore is the most stable and feature rich software kernel that you are ever gonna see
 
