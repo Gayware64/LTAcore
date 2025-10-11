@@ -21,3 +21,4 @@ LTAcore is the most stable and feature rich software kernel that you are ever go
 
 *If you wonder where LTAcore 0.6 and older is, Take a look in the Nyrion LTA Atlas repo, And use one of those versions*
 
+<img width="512" height="512" alt="477517100-e4b1520e-77e7-4866-bd53-dc55186f42f6" src="https://github.com/user-attachments/assets/bb6d4e96-0707-4419-b689-de905d0e22a9" />
